@@ -154,7 +154,7 @@ figure .text{
   translate: (0, -50%);
 }
 figure .text.animate  {
-  transition: 4s;
+  transition: 5s;
   opacity: 1;
 }
 figure .text{
