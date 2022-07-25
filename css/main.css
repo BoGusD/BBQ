@@ -162,8 +162,9 @@ figure .text{
 }
 figure .text p{
   color: white;
-  font: 8vh/1 Nanum Myeongjo;
-  padding: 10xp 25px;
+  font: 10vh/1 Nanum Myeongjo;
+  padding: 10px 25px;
+  margin-top: -25px
 }
 figure .text p:hover{
   transition: 1s;
