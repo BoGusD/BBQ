@@ -222,7 +222,7 @@ footer {
   font: 12px/1 "Mochiy Pop One";
   color: #dadada;
   letter-spacing: 2px;
-  padding: 5vh 5vw;
+  padding: 4vh 4vw;
 }
 /* mobile  */ 
  @media screen and (max-width: 875px) {
